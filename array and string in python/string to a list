@@ -1,0 +1,2 @@
+a="monish is a good boy"
+print(a.split())
